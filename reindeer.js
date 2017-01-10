@@ -2,7 +2,7 @@ var colors = ["Blue", "Red", "Orange", "Purple", "Hazel", "Aquamarine", "Periwin
 var reindeer = ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen"];
 var newColor = ""
 
-/*THIS DID NOT WORK IT PRINTED THE FIRST COLOR WITH EVERY REINDEER, THEN THE SECOND COLOR WITH EVERY REINDEER*/
+//THIS DID NOT WORK IT PRINTED THE FIRST COLOR WITH EVERY REINDEER, THEN THE SECOND COLOR WITH EVERY REINDEER
 // for (var i = 0; i < 8; i++) {
 //   for (var j = 0; j < reindeer.length; j++) {
 //     newColor += colors[i] + " " + reindeer[j];
